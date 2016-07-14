@@ -1,8 +1,10 @@
 ## HAProxy tcp socket connections, port exhaustion, keep-alive and others
 
-    1) Tuning the Linux system
-    2) Tuning HAProxy
-    
+## Tuning the Linux system
+
+## Tuning HAProxy
+
+
 ```sh
 $ git clone [git-repo-url] dillinger
 $ cd dillinger
